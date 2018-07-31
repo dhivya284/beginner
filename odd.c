@@ -2,14 +2,13 @@
 int main()
 {
  	int a;
-	printf("enter the element:");
 	scanf("%d",&a);
 	if(a%2==0)
 	{
-		printf("EVEN");
+		printf("Even");
 	}
 	else
 	{
-		printf("ODD");
+		printf("Odd");
 	}
 }
