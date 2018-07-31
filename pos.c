@@ -2,7 +2,6 @@
 int main()
 {
 int a;
-printf("enter the element");
 scanf("%d",&a);
 if(a>0)
 {
